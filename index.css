@@ -15,9 +15,9 @@ a {
 }
 
 img {
-    width: 140px;
+    width: 150px;
     border-radius: 50%;
-    border: 5px solid salmon;
+    border: 3px solid salmon;
 }
 
 .center {
